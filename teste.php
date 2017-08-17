@@ -1,3 +1,3 @@
 <?php
-    echo "Programar é bacana\n";
+    echo "Eu gosto de programar\n";
 ?>
