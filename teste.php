@@ -1,3 +1,3 @@
 <?php
-echo "Olá Mundo!";
+    echo "Programar é bacana\n";
 ?>
