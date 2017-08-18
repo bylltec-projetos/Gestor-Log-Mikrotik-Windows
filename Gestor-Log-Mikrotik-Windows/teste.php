@@ -1,3 +1,3 @@
 <?php
-    echo "teste\nteste 2\n";
+    echo "teste\nteste 2\nteste3\n";
 ?>
