@@ -1,0 +1,324 @@
+140320  0:04:31 [Note] Plugin 'FEDERATED' is disabled.
+140320  0:04:32  InnoDB: Started; log sequence number 0 46409
+140320  0:04:34 [Note] Event Scheduler: Loaded 0 events
+140320  0:04:34 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140320 13:32:04 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140320 13:32:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140320 13:32:06  InnoDB: Started; log sequence number 0 5247621
+140320 13:32:08 [Note] Event Scheduler: Loaded 0 events
+140320 13:32:08 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140321 10:49:51 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140321 10:49:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140321 10:50:03  InnoDB: Started; log sequence number 0 8386831
+140321 10:50:07 [Note] Event Scheduler: Loaded 0 events
+140321 10:50:07 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140321 23:47:30 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140321 23:47:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140321 23:47:35  InnoDB: Started; log sequence number 0 9353881
+140321 23:47:39 [Note] Event Scheduler: Loaded 0 events
+140321 23:47:39 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140322 16:41:28 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140322 16:41:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140322 16:41:35  InnoDB: Started; log sequence number 0 9365304
+140322 16:41:40 [Note] Event Scheduler: Loaded 0 events
+140322 16:41:40 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140322 23:55:46 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140322 23:55:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140322 23:56:00  InnoDB: Started; log sequence number 0 9365304
+140322 23:56:10 [Note] Event Scheduler: Loaded 0 events
+140322 23:56:10 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140323 23:59:58 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140324  0:00:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140324  0:00:06  InnoDB: Started; log sequence number 0 9365314
+140324  0:00:10 [Note] Event Scheduler: Loaded 0 events
+140324  0:00:10 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140329 23:48:26 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140329 23:48:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140329 23:48:28  InnoDB: Started; log sequence number 0 9365324
+140329 23:48:30 [Note] Event Scheduler: Loaded 0 events
+140329 23:48:30 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140401 11:48:19 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140401 11:48:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140401 11:48:22  InnoDB: Started; log sequence number 0 12487421
+140401 11:48:24 [Note] Event Scheduler: Loaded 0 events
+140401 11:48:24 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140405 14:49:56 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140405 14:49:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140405 14:50:07  InnoDB: Started; log sequence number 0 12487431
+140405 14:50:15 [Note] Event Scheduler: Loaded 0 events
+140405 14:50:15 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140531 11:30:38 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140531 11:30:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140531 11:30:40  InnoDB: Started; log sequence number 0 12487441
+140531 11:30:43 [Note] Event Scheduler: Loaded 0 events
+140531 11:30:43 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140603 17:39:03 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140603 17:39:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140603 17:39:06  InnoDB: Started; log sequence number 0 12487451
+140603 17:39:08 [Note] Event Scheduler: Loaded 0 events
+140603 17:39:08 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140604 13:01:39 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140604 13:01:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140604 13:01:41  InnoDB: Started; log sequence number 0 12487451
+140604 13:01:44 [Note] Event Scheduler: Loaded 0 events
+140604 13:01:44 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140605 10:43:51 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140605 10:43:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140605 10:43:53  InnoDB: Started; log sequence number 0 12487461
+140605 10:43:55 [Note] Event Scheduler: Loaded 0 events
+140605 10:43:55 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140606 11:07:44 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140606 11:07:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140606 11:07:48  InnoDB: Started; log sequence number 0 18711283
+140606 11:07:49 [Note] Event Scheduler: Loaded 0 events
+140606 11:07:49 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140606 23:41:52 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140606 23:41:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140606 23:41:59  InnoDB: Started; log sequence number 0 23411970
+140606 23:42:06 [Note] Event Scheduler: Loaded 0 events
+140606 23:42:06 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140731 11:17:51 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140731 11:17:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140731 11:17:52  InnoDB: Started; log sequence number 0 33144502
+140731 11:17:54 [Note] Event Scheduler: Loaded 0 events
+140731 11:17:54 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+140920 17:41:32 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140920 17:41:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140920 17:41:33  InnoDB: Started; log sequence number 0 33150294
+140920 17:41:35 [Note] Event Scheduler: Loaded 0 events
+140920 17:41:35 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150225 12:54:59 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150225 12:55:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150225 12:55:02  InnoDB: Started; log sequence number 0 112594726
+150225 12:55:04 [Note] Event Scheduler: Loaded 0 events
+150225 12:55:04 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150326 11:38:53 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150326 11:38:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150326 11:38:58  InnoDB: Started; log sequence number 0 112594993
+150326 11:39:01 [Note] Event Scheduler: Loaded 0 events
+150326 11:39:01 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150327 12:10:01 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150327 12:10:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150327 12:10:02  InnoDB: Started; log sequence number 0 112595003
+150327 12:10:08 [Note] Event Scheduler: Loaded 0 events
+150327 12:10:08 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150331 13:42:38 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150331 13:42:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150331 13:42:39  InnoDB: Started; log sequence number 0 112595003
+150331 13:42:40 [Note] Event Scheduler: Loaded 0 events
+150331 13:42:40 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150331 14:56:44 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150331 14:56:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150331 14:56:47  InnoDB: Started; log sequence number 0 112595003
+150331 14:56:49 [Note] Event Scheduler: Loaded 0 events
+150331 14:56:49 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150401 17:55:34 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150401 17:55:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150401 17:55:39  InnoDB: Started; log sequence number 0 112595013
+150401 17:55:40 [Note] Event Scheduler: Loaded 0 events
+150401 17:55:40 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150623 16:05:36 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150623 16:05:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150623 16:05:37  InnoDB: Started; log sequence number 0 114141813
+150623 16:05:39 [Note] Event Scheduler: Loaded 0 events
+150623 16:05:39 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150623 18:44:08 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150623 18:44:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150623 18:44:11  InnoDB: Started; log sequence number 0 114629692
+150623 18:44:13 [Note] Event Scheduler: Loaded 0 events
+150623 18:44:13 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+150623 18:46:54 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+150623 18:46:55 [Note] Event Scheduler: Purging the queue. 0 events
+150623 18:46:55  InnoDB: Starting shutdown...
+150623 18:46:56  InnoDB: Shutdown completed; log sequence number 0 114629702
+150623 18:46:56 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+170822 14:28:39 [Note] Plugin 'FEDERATED' is disabled.
+170822 14:28:40  InnoDB: Started; log sequence number 0 114629702
+170822 14:28:41 [Note] Event Scheduler: Loaded 0 events
+170822 14:28:41 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+170822 14:38:52 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+170822 14:38:53 [Note] Event Scheduler: Purging the queue. 0 events
+170822 14:38:53  InnoDB: Starting shutdown...
+170822 14:38:55  InnoDB: Shutdown completed; log sequence number 0 114629712
+170822 14:38:55 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+

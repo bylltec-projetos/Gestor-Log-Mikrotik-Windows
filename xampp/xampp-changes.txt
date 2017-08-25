@@ -1,0 +1,55 @@
+20. December 2009 1.7.3
+
+- Upgrade   phpMyAdmin 3.2.3
+- Upgrade   Zend Framework 1.9.6 Minimal Package (via PEAR)
+- Fix       fix php_gd2 (wrong jpeglib was used for the build)
+- Change    using Randy Kobes (unauthorized) PPM release
+
+Known problems:
+- Apache IPv6 is not working with Windows 2000. Additionally, if you have installed the Microsoft IPv6 Technology Preview
+  in W2K, you must copy "libapr-1.dll-noipv6" to "libapr-1.dll"
+
+- If you want use Mercury, you must install XAMPP in a short path which follows the old DOS 8.3 naming conventions.
+  (please fill a bugreport at pmail.com)
+
+- If you want use the Perl cpan/cpanp shell, the path to XAMPP must not contain a space.
+
+
+21. November 2009 1.7.3-beta2
+
+- Upgrade   PHP 5.3.1
+- Upgrade   MySQL 5.1.41 (Community Server)
+- Upgrade   SQLite 3.6.20
+- Upgrade   ADOdb v5.10
+- Fix       fix php_xdebug. Should now (hopefully) better work on Vista. Please test.
+- Change    IPv6 detection in statuspage is working again (thanks PHP)
+
+11. November 2009 1.7.3-beta1
+
+- Upgrade   Apache 2.2.14 (IPV6 enabled)
+- Upgrade   MySQL 5.1.40 (Community Server) with PBXT engine 1.0.09-rc
+- Upgrade   Mercury Mail Transport System v4.72
+- Upgrade   FileZilla FTP Server 0.9.33
+- Upgrade   Perl 5.10.1
+- Upgrade   OpenSSL 0.9.8l
+- Upgrade   SQLite 3.6.19
+- Upgrade   msmtp 1.4.19 (a sendmail compatible SMTP client)
+- Upgrade   phpMyAdmin 3.2.3
+- Upgrade   Zend Framework 1.9.5 Minimal Package (via PEAR)
+- Upgrade   Ming 0.4.3 for PHP
+- Upgrade   XAMPP Port Check 1.5
+- Upgrade   Xdebug 2.0.6-dev for PHP
+- Upgrade   eAccelerator 0.9.6-dev for PHP
+- Add       libapreq2 v2.12 (mod_apreq2 + Apache2::Request)
+- Add       apc 3.1.3p1 for PHP
+- Add       rar 1.0.1-dev for PHP
+- Add       php_dblib.dll and php_pdo_dblib.dll PHP extension
+- Change    rename php_pdf.dll PHP extension to php_pdflib.dll
+- Change    enable taint mode for mod_perl (disable usage of PERL5LIB)
+- Remove    php_mime_magic.dll extension. It's now part of php_fileinfo.dll
+- Remove    php_pdo_oci8.dll. (was the same then php_pdo_oci.dll)
+- Fix       fix MySQL status if the "pma" user have a password
+- Fix       fix a warning in the security console while writing the ".htaccess".
+- Fix       fix text phrase in security console.
+- Fix       fix a problem with DBD::mysql and Perl CGI
+- Fix       fix a problem with creation of the shortcuts and some Windows codepages

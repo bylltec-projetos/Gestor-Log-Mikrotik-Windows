@@ -1,0 +1,22 @@
+# ETRN Configuration File for Mercury/32
+#
+# Mercury can 'kick-start' remote queues by sending SMTP ETRN
+# commands to the servers that host those queues. This file
+# tells Mercury which hosts it needs to contact, and the name of
+# the queues it should trigger on those hosts.
+#
+# Enter the name of a host that Mercury should contact hard
+# against the left-hand margin of this file. Then on subsequent
+# lines, enter the names of the domains that should be triggered,
+# indented by at least one space. Repeat this process for all the
+# hosts Mercury should contact. Blank lines, and lines starting
+# with '#' are treated as comments and ignored.
+# 
+# Example: you want Mercury to contact the host 'mail.caramba.org'
+# and ask it to trigger the mail queues for 'arriba.com' and
+# 'ayayay.com': you would create the following entry:
+#
+# mail.caramba.org
+#   arriba.com
+#   ayayay.com
+
