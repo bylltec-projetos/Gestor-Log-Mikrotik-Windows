@@ -1,3 +1,0 @@
-<?php
-//pegando do github
-?>
